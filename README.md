@@ -1,77 +1,115 @@
 
 <div align="center">
 
-# ⚡ PRUTHVI REDDY K
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:00FF88&height=200&section=header&text=PRUTHVI%20REDDY&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=17" width="100%"/>
 
-### `Building ideas into reality, one line at a time.`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Building+the+Future+with+Code;Learning+%7C+Building+%7C+Growing;Turning+Ideas+Into+Projects" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Pruthvi+%F0%9F%91%8B;Student+%7C+Developer;Turning+coffee+into+code+%E2%98%95;Always+learning+new+things" alt="Typing SVG" />
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Reddypruthvi-00ff88?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reddypruthvi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pruthvi-reddy-k-b461642a4/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/p_r_u_t_h_v_i_003/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-00FF88?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reddypruthvi)
+[![Repositories](https://img.shields.io/badge/Repositories-Explore-111111?style=for-the-badge&logo=github)](https://github.com/Reddypruthvi?tab=repositories)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 WHO AM I?
 
-```yaml
-name: Pruthvi Reddy K
-username: Reddypruthvi
-role: Student
-location: Bengaluru, India
-interests:
-  - Web Development
-  - Software Development
-  - Building Creative Projects
-  - Learning New Technologies
-motto: "Code. Learn. Build. Repeat."
+```bash
+┌──(pruthvi㉿github)-[~]
+└─$ whoami
+
+Name       : Pruthvi Reddy K
+Username   : Reddypruthvi
+Role       : Student & Developer
+Location   : India
+Mindset    : Learn | Build | Innovate
+Status     : Always Learning ⚡
 ```
 
-- 🚀 Exploring the world of software development.
-- 💡 Interested in building useful applications.
-- 🌱 Always learning and improving my coding skills.
-- 🎯 Working towards becoming a better developer.
+- 🚀 Exploring software and web development.
+- 💻 Building practical projects.
+- 🌱 Learning new technologies.
+- 🎯 Improving my programming skills.
+- ⚡ Believe in consistency and creativity.
 
-## ⚡ Tech Stack
+---
+
+## ⚙️ TECHNOLOGIES & TOOLS
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" />
 
 </div>
 
-## 🚀 Featured Projects
+---
 
-| Project | Description |
-|---|---|
-| [Weather Apps](https://github.com/Reddypruthvi/weather-apps) | Weather application with live data and AI-powered insights |
-| [My Portfolio](https://github.com/Reddypruthvi/My-Portfolio) | Personal portfolio website |
-| [Hotel Management System](https://github.com/Reddypruthvi/Hotel-management-system) | Hotel management project |
-| [Mindmartix Project](https://github.com/Reddypruthvi/Mindmartix-project1) | Project showcase |
-
-## 📊 GitHub Analytics
+## 🚀 PROJECT SHOWCASE
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Reddypruthvi&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/Reddypruthvi/weather-apps">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Reddypruthvi&repo=weather-apps&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reddypruthvi&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/Reddypruthvi/My-Portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Reddypruthvi&repo=My-Portfolio&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
+</a>
 
-<img src="https://streak-stats.demolab.com?user=Reddypruthvi&theme=chartreuse-dark&hide_border=true&background=0D1117" />
+<a href="https://github.com/Reddypruthvi/Hotel-management-system">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Reddypruthvi&repo=Hotel-management-system&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
+</a>
+
+<a href="https://github.com/Reddypruthvi/Mindmartix-project1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Reddypruthvi&repo=Mindmartix-project1&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
+</a>
 
 </div>
 
-## 🟩 Contribution Activity
+---
+
+## 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Reddypruthvi&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" width="100%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Reddypruthvi&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reddypruthvi&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Reddypruthvi&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88"/>
+
+</div>
+
+---
+
+## 🟩 CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Reddypruthvi&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 🎯 MY DEVELOPER PHILOSOPHY
+
+<div align="center">
+
+```text
+while (alive) {
+    learn();
+    build();
+    improve();
+    repeat();
+}
+```
+
+### "Great developers are not born. They are built through consistency."
 
 </div>
 
@@ -79,10 +117,12 @@ motto: "Code. Learn. Build. Repeat."
 
 <div align="center">
 
-### ⚡ KEEP BUILDING. KEEP LEARNING. KEEP GROWING.
+<img src="https://komarev.com/ghpvc/?username=Reddypruthvi&label=PROFILE+VIEWS&color=00FF88&style=for-the-badge"/>
 
-**Thanks for visiting my profile!**
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Reddypruthvi&label=PROFILE+VIEWS&color=00ff88&style=for-the-badge" />
+### ⚡ CODE • CREATE • INNOVATE ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:050505&height=100&section=footer" width="100%"/>
 
 </div>
