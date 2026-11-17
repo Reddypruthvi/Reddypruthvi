@@ -1,88 +1,108 @@
-
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-# ⚡ PRUTHVI REDDY K
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=Reddypruthvi&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=root@github:~%20whoami&descSize=18&descAlignY=60&descColor=c9d1d9" width="100%" />
 
-### `Building ideas into reality, one line at a time.`
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+Initializing+developer.exe...;%3E+Building+cool+things+with+code;%3E+Always+learning%2C+always+shipping;%3E+Open+to+collaborate+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Pruthvi+%F0%9F%91%8B;Student+%7C+Developer;Turning+coffee+into+code+%E2%98%95;Always+learning+new+things" alt="Typing SVG" />
-
-[![GitHub](https://img.shields.io/badge/GitHub-Reddypruthvi-00ff88?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reddypruthvi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pruthvi-reddy-k-b461642a4/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/p_r_u_t_h_v_i_003/)
+![Profile Views](https://komarev.com/ghpvc/?username=Reddypruthvi&color=00ff41&style=flat-square&label=VISITORS)
+![Followers](https://img.shields.io/github/followers/Reddypruthvi?style=flat-square&color=00ff41&labelColor=0d1117)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `> cat about_me.txt`
 
-```yaml
-name: Pruthvi Reddy K
-username: Reddypruthvi
-role: Student
-location: Bengaluru, India
-interests:
-  - Web Development
-  - Software Development
-  - Building Creative Projects
-  - Learning New Technologies
-motto: "Code. Learn. Build. Repeat."
+```bash
+$ whoami
+> Pruthvi Reddy                      # TODO: edit your name
+
+$ cat /etc/profile
+> 🎓 Role       : Developer / Student            # TODO
+> 🔭 Working on : Your current project             # TODO
+> 🌱 Learning   : Your current learning focus      # TODO
+> 💬 Ask me     : Topics you can help with         # TODO
+> ⚡ Fun fact   : Something memorable              # TODO
+
+$ echo $STATUS
+> Compiling dreams into code... ✔
 ```
 
-- 🚀 Exploring the world of software development.
-- 💡 Interested in building useful applications.
-- 🌱 Always learning and improving my coding skills.
-- 🎯 Working towards becoming a better developer.
+---
 
-## ⚡ Tech Stack
+## `> ls ~/skills`
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-</div>
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| [Weather Apps](https://github.com/Reddypruthvi/weather-apps) | Weather application with live data and AI-powered insights |
-| [My Portfolio](https://github.com/Reddypruthvi/My-Portfolio) | Personal portfolio website |
-| [Hotel Management System](https://github.com/Reddypruthvi/Hotel-management-system) | Hotel management project |
-| [Mindmartix Project](https://github.com/Reddypruthvi/Mindmartix-project1) | Project showcase |
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Reddypruthvi&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reddypruthvi&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
-
-<img src="https://streak-stats.demolab.com?user=Reddypruthvi&theme=chartreuse-dark&hide_border=true&background=0D1117" />
-
-</div>
-
-## 🟩 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Reddypruthvi&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" width="100%" />
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff41)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff41)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00ff41)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00ff41)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00ff41)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00ff41)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff41)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff41)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00ff41)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00ff41)
 
 </div>
 
 ---
 
+## `> ./stats.sh`
+
 <div align="center">
 
-### ⚡ KEEP BUILDING. KEEP LEARNING. KEEP GROWING.
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Reddypruthvi&show_icons=true&hide_border=false&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reddypruthvi&layout=compact&hide_border=false&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41" />
 
-**Thanks for visiting my profile!**
+<img src="https://streak-stats.demolab.com?user=Reddypruthvi&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=00ff4133&border=00ff41" />
 
-<img src="https://komarev.com/ghpvc/?username=Reddypruthvi&label=PROFILE+VIEWS&color=00ff88&style=for-the-badge" />
+</div>
+
+---
+
+## `> tail -f activity.log`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Reddypruthvi&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## `> git log --pinned`
+
+<!-- TODO: replace REPO_NAME_1 / REPO_NAME_2 with your real repo names -->
+<div align="center">
+
+<a href="https://github.com/Reddypruthvi/REPO_NAME_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reddypruthvi&repo=REPO_NAME_1&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41" />
+</a>
+<a href="https://github.com/Reddypruthvi/REPO_NAME_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reddypruthvi&repo=REPO_NAME_2&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41" />
+</a>
+
+</div>
+
+---
+
+## `> ping me`
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41" /></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41" /></a>
+<a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00ff41" /></a>
+
+```text
+> "Talk is cheap. Show me the code." — Linus Torvalds
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=100&section=footer" width="100%" />
 
 </div>
